@@ -1,0 +1,35 @@
+_repo: The-meaning-of-a-liberal-education_75711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, Everett Dean
+    birthdate: 1880
+    deathdate: 1941
+    gutenberg_agent_id: '40892'
+    url: http://www.gutenberg.org/2009/agents/40892
+    wikipedia: https://en.wikipedia.org/wiki/Everett_Dean_Martin
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75711'
+  lccn: '26023875'
+language: en
+pgterms:marc904: https://archive.org/details/meaningofliberal0000unse_s8w9/page/n5/mode/2up
+pgterms:marc905: 20220316090127martin
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Carla Foust, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bW. W. Norton & Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The People's institute. "Lectures-in-print" series
+subjects:
+- !lcsh 'Education'
+- !lcc 'LC'
+- GITenberg
+title: The meaning of a liberal education
+url: http://www.gutenberg.org/ebooks/75711
