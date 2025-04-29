@@ -1,5 +1,8 @@
 _repo: The-meaning-of-a-liberal-education_75711
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75711-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, Everett Dean
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40892
     wikipedia: https://en.wikipedia.org/wiki/Everett_Dean_Martin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75711#The-meaning-of-a-liberal-education
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
